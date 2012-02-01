@@ -15,7 +15,7 @@
 			onComplete: function(transport) {
 				var ti = JSON.parse(transport.responseText);
 
-				var share_url = "http://sn.chromic.org/index.php?action=newnotice" +
+				var share_url = "http://identi.ca/index.php?action=newnotice" +
 					"&status_textarea=" + param_escape(ti.title) +
 					"%20" + param_escape(ti.link);
 
