@@ -1,6 +1,6 @@
 # Intro
 
-**2012/02/23 Update:** There is an [offical plugin](http://tt-rss.org/redmine/projects/tt-rss/wiki/Plugins) for this that uses the "Bookmark" StatusNet feature (instead of a regular notice).
+**2012/02/23 Update:** There is an [offical plugin](https://tt-rss.org/gitlab/fox/tt-rss-attic/tree/master/plugins/identica) for this that uses the "Bookmark" StatusNet feature (instead of a regular notice).
 
 A "[Tiny Tiny RSS](http://tt-rss.org)" plugin that adds the ability to share a link from tt-rss to a StatusNet instance (such as [identica](http://identi.ca)):
 
